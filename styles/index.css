@@ -1,0 +1,22 @@
+
+
+body {
+	background: url("../images/index-background.jpg") no-repeat center fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#wrapper {
+	position: relative;
+}
+
+h3 {
+	font-size: 24px;
+	text-align: center;
+}
+
+iframe {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
